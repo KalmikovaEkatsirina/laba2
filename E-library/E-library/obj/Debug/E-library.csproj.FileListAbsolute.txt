@@ -1,0 +1,13 @@
+D:\ООП\lab2\E-library\E-library\bin\Debug\E-library.exe.config
+D:\ООП\lab2\E-library\E-library\bin\Debug\E-library.exe
+D:\ООП\lab2\E-library\E-library\bin\Debug\E-library.pdb
+D:\ООП\lab2\E-library\E-library\obj\Debug\E-library.csproj.AssemblyReference.cache
+D:\ООП\lab2\E-library\E-library\obj\Debug\E-library.csproj.SuggestedBindingRedirects.cache
+D:\ООП\lab2\E-library\E-library\obj\Debug\E_library.Properties.Resources.resources
+D:\ООП\lab2\E-library\E-library\obj\Debug\E-library.csproj.GenerateResource.cache
+D:\ООП\lab2\E-library\E-library\obj\Debug\E-library.csproj.CoreCompileInputs.cache
+D:\ООП\lab2\E-library\E-library\obj\Debug\E-library.exe
+D:\ООП\lab2\E-library\E-library\obj\Debug\E-library.pdb
+D:\ООП\lab2\E-library\E-library\obj\Debug\E_library.BookFile.resources
+D:\ООП\lab2\E-library\E-library\obj\Debug\E_library.AuthorForm.resources
+D:\ООП\lab2\E-library\E-library\obj\Debug\E_library.PublishingForm.resources
